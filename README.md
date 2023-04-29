@@ -33,6 +33,8 @@ ___
 | Title | Code | Referrence |
 | --- | --- | --- |   
 | Practical Statistic For Data Scientist | [:link:](https://github.com/sitsawek/Practical-statistic-for-data-scientist) | - |
+| Cross Validation | [:link:](https://github.com/sitsawek/Preparation-and-Method/blob/main/closs_validation.ipynb) | - |
+| Feature Selection | [:link:](https://github.com/sitsawek/Preparation-and-Method/blob/main/feature_selection.ipynb) | - |
 
 
 <a name="cloud-practice"></a>
@@ -46,7 +48,7 @@ ___
 ## Visualization
 | Title | Code | Referrence |
 | --- | --- | --- |   
-| Customer Discount Focus | [:link:](https://public.tableau.com/views/CustomerDiscountFocus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) | - |
+| Customer Discount Focus | - | [:link:](https://public.tableau.com/views/CustomerDiscountFocus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) |
 
 
 <a name="certificated"></a>
