@@ -26,6 +26,7 @@ ___
 ## Insight & Analysis 
 | Title | Code | Referrence |
 | --- | --- | --- |   
+| Apriori Analysis | [:link:](https://github.com/sitsawek/insight-analysis/blob/master/apriori-analysis.ipynb) | - |
 
 
 <a name="data-preparation-and-method"></a>
