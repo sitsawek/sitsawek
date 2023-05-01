@@ -26,7 +26,7 @@ ___
 ## Insight & Analysis 
 | Title | Code | Referrence |
 | --- | --- | --- |   
-| Apriori Analysis | [:link:](https://github.com/sitsawek/insight-analysis/blob/master/apriori-analysis.ipynb) | [:link:](https://public.tableau.com/app/profile/sitsawek.sukorn/viz/AprioriAnalysis_16829450134400/Dashboard1) |
+| Apriori Analysis | [:link:](https://github.com/sitsawek/insight-analysis/blob/master/apriori-analysis.ipynb) | - |
 
 
 <a name="data-preparation-and-method"></a>
@@ -50,6 +50,7 @@ ___
 | Title | Code | Referrence |
 | --- | --- | --- |   
 | Customer Discount Focus | - | [:link:](https://public.tableau.com/views/CustomerDiscountFocus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) |
+| Apriori Analysis | - | [:link:](https://public.tableau.com/app/profile/sitsawek.sukorn/viz/AprioriAnalysis_16829450134400/Dashboard1) |
 
 
 <a name="certificated"></a>
